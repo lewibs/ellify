@@ -3,6 +3,7 @@ import { RouteProp } from '@react-navigation/core';
 import { FrameNavigationProp } from "react-nativescript-navigation";
 import { MainStackParamList } from "./NavigationParamList";
 import { StyleSheet } from "react-nativescript";
+import { Connectivity } from '@nativescript/core'
 
 type OnScreenProps = {
     route: RouteProp<MainStackParamList, "On">,
@@ -10,6 +11,8 @@ type OnScreenProps = {
 }
 
 export function OnScreen({ navigation }: OnScreenProps) {
+    //TODO: java can be embeded here. using java I am able to make a vpn tunnel to modify api requests
+
     return (
         <flexboxLayout style={styles.container}>
         <label
