@@ -12,16 +12,18 @@ type OnScreenProps = {
 export function OnScreen({ navigation }: OnScreenProps) {
     return (
         <flexboxLayout style={styles.container}>
-            <label style={styles.text}>
-                You're viewing the secondary screen!
-            </label>
-            <button
-                style={styles.button}
-                onTap={() => navigation.goBack()}
-            >
-                Go back
-            </button>
-        </flexboxLayout>
+        <label
+            className="fas"
+            style={styles.text}
+        >
+            Happy Listening :)
+        </label>
+        <image 
+            src="https://github.com/lewibs/ellify/blob/main/ellify-app/images/spotifyGreen.png?raw=true"
+            stretch="aspectFit" 
+            onTap={() => navigation.navigate('Off')}
+        />
+    </flexboxLayout>
     );
 }
 
@@ -30,15 +32,12 @@ const styles = StyleSheet.create({
         height: "100%",
         flexDirection: "column",
         justifyContent: "center",
-        backgroundColor: "yellow",
+        backgroundColor: '#aaffaa',
     },
     text: {
         textAlignment: "center",
-        fontSize: 24,
+        fontSize: 30,
         color: "black",
-    },
-    button: {
-        fontSize: 24,
-        color: "#2e6ddf",
+        padding: 10,
     },
 });

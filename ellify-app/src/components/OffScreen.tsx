@@ -1,6 +1,5 @@
 import * as React from "react";
 import { RouteProp } from '@react-navigation/core';
-import { Dialogs } from '@nativescript/core';
 import { FrameNavigationProp } from "react-nativescript-navigation";
 import { StyleSheet } from "react-nativescript";
 import { MainStackParamList } from "./NavigationParamList";
@@ -15,12 +14,19 @@ export function OffScreen({ navigation }: OffScreenProps) {
         <flexboxLayout style={styles.container}>
             <label
                 className="fas"
-                style={styles.text}
+                style={styles.legal}
             >
-                Get Startedxcvzxcv
+                legal discalmer:
+            </label>
+            <label
+                className="fas"
+                style={styles.text}
+                textWrap='true'
+            >
+                lewibs does not take responsibility for use of ellify
             </label>
             <image 
-                src="https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg"
+                src="https://github.com/lewibs/ellify/blob/main/ellify-app/images/spotifyRed.png?raw=true"
                 stretch="aspectFit" 
                 onTap={() => navigation.navigate('On')}
             />
@@ -33,10 +39,18 @@ const styles = StyleSheet.create({
         height: "100%",
         flexDirection: "column",
         justifyContent: "center",
+        backgroundColor: '#ffaaaa',
     },
-    text: {
+    legal: {
         textAlignment: "center",
         fontSize: 30,
         color: "black",
+        padding: 10,
+    },
+    text: {
+        textAlignment: "center",
+        fontSize: 20,
+        color: "black",
+        padding: 10,
     },
 });
