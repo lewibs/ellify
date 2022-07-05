@@ -48,4 +48,3 @@
 /home/lewibs/github/ellify/ellify-app/platforms/android/build/exploded-dependencies/76a184360714372877f23aa7871796d3/jetified-core-ktx-1.2.0-api.jar
 /home/lewibs/github/ellify/ellify-app/platforms/android/build/exploded-dependencies/9395adc9c32f244879c585cc5d7ef539/documentfile-1.0.0-api.jar
 /home/lewibs/github/ellify/ellify-app/platforms/android/build/exploded-dependencies/c5b2808e079cf970c225e25039a7a346/loader-1.0.0-api.jar
-/home/lewibs/github/ellify/ellify-app/platforms/android/app/build/intermediates/javac/debug

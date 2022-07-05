@@ -1,4 +1,4 @@
-#Tue Jul 05 18:46:09 EDT 2022
+#Tue Jul 05 19:03:53 EDT 2022
 base.0=/home/lewibs/github/ellify/ellify-app/platforms/android/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex

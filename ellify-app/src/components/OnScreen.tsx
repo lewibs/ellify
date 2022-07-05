@@ -14,8 +14,7 @@ declare var com: any
 
 export function OnScreen({ navigation }: OnScreenProps) {
     //TODO: java can be embeded here. using java I am able to make a vpn tunnel to modify api requests
-    console.log(com.tns.Vpn.gah());
-
+    let gah = com.tns.Vpn.gah();
 
     return (
         <flexboxLayout style={styles.container}>
@@ -30,6 +29,9 @@ export function OnScreen({ navigation }: OnScreenProps) {
             stretch="aspectFit" 
             onTap={() => navigation.navigate('Off')}
         />
+        <label>
+            {gah}
+        </label>
     </flexboxLayout>
     );
 }
