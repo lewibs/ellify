@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="AppThemeBase29">
+    </style>
+    <style name="AppThemeBase29" parent="AppThemeBase21">
+
+        <!-- 
+            Disable forced dark mode on newer devices. 
+            Enabling this will make your app appear in dark-mode, 
+            but the way the app is converted may lead to visual issues 
+        -->
+        <item name="android:forceDarkAllowed">false</item>
+    </style>
+</resources>

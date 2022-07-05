@@ -1,0 +1,248 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:2:1-42:12
+MERGED from [com.google.android.material:material:1.5.0] /home/lewibs/.gradle/caches/transforms-3/a82d70ee0f685906d8a102ba5c12e6ec/transformed/material-1.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.multidex:multidex:2.0.1] /home/lewibs/.gradle/caches/transforms-3/a66e7cca9740fcc51a7e417ca2c8c869/transformed/multidex-2.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/lewibs/.gradle/caches/transforms-3/8202117a270649fb216570eaeb6ac9d0/transformed/constraintlayout-2.0.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.1] /home/lewibs/.gradle/caches/transforms-3/eb2d110b6f360c9cd8dc879db4871f2e/transformed/appcompat-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] /home/lewibs/.gradle/caches/transforms-3/be98bda9e7a408ba6931216929ae98b2/transformed/exifinterface-1.3.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/lewibs/.gradle/caches/transforms-3/41ef0166d83fe7fa053bbf192438a131/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.4.1] /home/lewibs/.gradle/caches/transforms-3/33b5efcfbae37d77d5f9a132d7104ddc/transformed/fragment-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.4.1] /home/lewibs/.gradle/caches/transforms-3/2c3ce4adcb9561c91bc7a372d8ace811/transformed/transition-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [:nativescript-optimized-with-inspector:] /home/lewibs/.gradle/caches/transforms-3/19760c4ac626af38e72371198071658e/transformed/jetified-nativescript-optimized-with-inspector/AndroidManifest.xml:2:1-11:12
+MERGED from [:core:] /home/lewibs/.gradle/caches/transforms-3/a767417054727fabb32bb478c9c42085/transformed/jetified-core/AndroidManifest.xml:2:1-9:12
+MERGED from [:widgets-release:] /home/lewibs/.gradle/caches/transforms-3/308a7acdce917d7bbb769ef7305a6f5b/transformed/jetified-widgets-release/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/lewibs/.gradle/caches/transforms-3/e11934a09dcd84e3daf2558fc1aec8b6/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/lewibs/.gradle/caches/transforms-3/08003e7f26bdc531f15b1e049328a98e/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/lewibs/.gradle/caches/transforms-3/25e99afff0b786ab070f518b1893a6b8/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/lewibs/.gradle/caches/transforms-3/5cb6f8f522b96cadc843cd4c8a9b88fd/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /home/lewibs/.gradle/caches/transforms-3/20622a51a81d850304a6b04958f83fc5/transformed/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/lewibs/.gradle/caches/transforms-3/c3ad4534404ab9b48d2b8601a40ae574/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/lewibs/.gradle/caches/transforms-3/d754ab6390450f46690d829915fd0407/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] /home/lewibs/.gradle/caches/transforms-3/0ce984f67cec0065d0c8e9cf64f3cac5/transformed/jetified-activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/lewibs/.gradle/caches/transforms-3/5dd84204d257d7b38ad165be76ba3937/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.2.0] /home/lewibs/.gradle/caches/transforms-3/007d68172831ec866423df9d1fca46d4/transformed/jetified-core-ktx-1.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/lewibs/.gradle/caches/transforms-3/df85e345eca6a6f8ab207bd399c5c135/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/lewibs/.gradle/caches/transforms-3/c6d03f38a62181bef38b3473176a7f87/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/lewibs/.gradle/caches/transforms-3/1d3e555f76d2a2cd834046fdd261d33a/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] /home/lewibs/.gradle/caches/transforms-3/a1d8dc4b7be6c2eb30f72f751fb2ac72/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.5.0] /home/lewibs/.gradle/caches/transforms-3/84a8e2d89dbfef9a5ef2819204c2ccbb/transformed/core-1.5.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/lewibs/.gradle/caches/transforms-3/5b4419576831ef0e1935a1f5c3088eec/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/lewibs/.gradle/caches/transforms-3/0b3b4c006d13a74ef713352fc41c383f/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/lewibs/.gradle/caches/transforms-3/694506f683b366dcad26f344ac61573b/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/lewibs/.gradle/caches/transforms-3/197975e7e2fd908e61fbfadcf9072a05/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/lewibs/.gradle/caches/transforms-3/5caeb59653611287db532a7e0f8e68b6/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/lewibs/.gradle/caches/transforms-3/1180a147707632c339b45fb84c7ce540/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/lewibs/.gradle/caches/transforms-3/7e203b3ad9b9d4f7ee0b150026c78cef/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/lewibs/.gradle/caches/transforms-3/4b29db9a52c3de82cdd4c4cf04fdb0d8/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/lewibs/.gradle/caches/transforms-3/2988c7f49eff50f0c8820891d8a366a2/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/lewibs/.gradle/caches/transforms-3/76b94ca80d24d263de1c847294d396af/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/lewibs/.gradle/caches/transforms-3/10bfe5a4994f08c9fd5177c02b763308/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/lewibs/.gradle/caches/transforms-3/eb3a0f6065e290b8c4e9dcce43e1ca79/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/lewibs/.gradle/caches/transforms-3/e2f1b712f5c8b497cbe1787afcc4ccd4/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/lewibs/.gradle/caches/transforms-3/04b251eb99282b4bacdb597eaab578b4/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/lewibs/.gradle/caches/transforms-3/07c1252abfe55b8d181ff1a10b01b1f8/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:2:1-42:12
+	package
+		ADDED from /home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:3:2-38
+		INJECTED from /home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:2:1-42:12
+		INJECTED from /home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:2:1-42:12
+		INJECTED from /home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:2:11-69
+supports-screens
+ADDED from /home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:5:2-9:33
+	android:largeScreens
+		ADDED from /home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:8:3-30
+	android:smallScreens
+		ADDED from /home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:6:3-30
+	android:normalScreens
+		ADDED from /home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:7:3-31
+	android:xlargeScreens
+		ADDED from /home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:9:3-31
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:11:2-76
+	android:name
+		ADDED from /home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:11:19-74
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:12:2-77
+	android:name
+		ADDED from /home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:12:19-75
+uses-permission#android.permission.INTERNET
+ADDED from /home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:13:2-63
+	android:name
+		ADDED from /home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:13:19-61
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:14:2-75
+	android:name
+		ADDED from /home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:14:19-73
+application
+ADDED from /home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:16:2-41:16
+MERGED from [com.google.android.material:material:1.5.0] /home/lewibs/.gradle/caches/transforms-3/a82d70ee0f685906d8a102ba5c12e6ec/transformed/material-1.5.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.5.0] /home/lewibs/.gradle/caches/transforms-3/a82d70ee0f685906d8a102ba5c12e6ec/transformed/material-1.5.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/lewibs/.gradle/caches/transforms-3/8202117a270649fb216570eaeb6ac9d0/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/lewibs/.gradle/caches/transforms-3/8202117a270649fb216570eaeb6ac9d0/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [:widgets-release:] /home/lewibs/.gradle/caches/transforms-3/308a7acdce917d7bbb769ef7305a6f5b/transformed/jetified-widgets-release/AndroidManifest.xml:9:5-10:19
+MERGED from [:widgets-release:] /home/lewibs/.gradle/caches/transforms-3/308a7acdce917d7bbb769ef7305a6f5b/transformed/jetified-widgets-release/AndroidManifest.xml:9:5-10:19
+MERGED from [androidx.core:core:1.5.0] /home/lewibs/.gradle/caches/transforms-3/84a8e2d89dbfef9a5ef2819204c2ccbb/transformed/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] /home/lewibs/.gradle/caches/transforms-3/84a8e2d89dbfef9a5ef2819204c2ccbb/transformed/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/lewibs/.gradle/caches/transforms-3/1180a147707632c339b45fb84c7ce540/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/lewibs/.gradle/caches/transforms-3/1180a147707632c339b45fb84c7ce540/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0] /home/lewibs/.gradle/caches/transforms-3/84a8e2d89dbfef9a5ef2819204c2ccbb/transformed/core-1.5.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:20:3-35
+	android:hardwareAccelerated
+		ADDED from /home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:22:3-37
+	android:icon
+		ADDED from /home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:19:3-37
+	android:allowBackup
+		ADDED from /home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:18:3-29
+	android:theme
+		ADDED from /home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:21:3-34
+	android:name
+		ADDED from /home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:17:3-49
+activity#com.tns.NativeScriptActivity
+ADDED from /home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:24:3-39:14
+	android:label
+		ADDED from /home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:26:4-49
+	android:launchMode
+		ADDED from /home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:30:9-40
+	android:hardwareAccelerated
+		ADDED from /home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:29:4-38
+	android:exported
+		ADDED from /home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:31:4-27
+	android:configChanges
+		ADDED from /home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:27:4-120
+	android:theme
+		ADDED from /home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:28:4-44
+	android:name
+		ADDED from /home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:25:4-47
+meta-data#SET_THEME_ON_LAUNCH
+ADDED from /home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:33:4-87
+	android:resource
+		ADDED from /home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:33:50-84
+	android:name
+		ADDED from /home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:33:15-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:35:4-38:20
+action#android.intent.action.MAIN
+ADDED from /home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:36:5-57
+	android:name
+		ADDED from /home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:36:13-54
+category#android.intent.category.LAUNCHER
+ADDED from /home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:37:5-65
+	android:name
+		ADDED from /home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:37:15-62
+activity#com.tns.ErrorReportActivity
+ADDED from /home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:40:3-57
+	android:name
+		ADDED from /home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:40:13-55
+uses-sdk
+INJECTED from /home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.5.0] /home/lewibs/.gradle/caches/transforms-3/a82d70ee0f685906d8a102ba5c12e6ec/transformed/material-1.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.5.0] /home/lewibs/.gradle/caches/transforms-3/a82d70ee0f685906d8a102ba5c12e6ec/transformed/material-1.5.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.multidex:multidex:2.0.1] /home/lewibs/.gradle/caches/transforms-3/a66e7cca9740fcc51a7e417ca2c8c869/transformed/multidex-2.0.1/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.1] /home/lewibs/.gradle/caches/transforms-3/a66e7cca9740fcc51a7e417ca2c8c869/transformed/multidex-2.0.1/AndroidManifest.xml:20:5-43
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/lewibs/.gradle/caches/transforms-3/8202117a270649fb216570eaeb6ac9d0/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/lewibs/.gradle/caches/transforms-3/8202117a270649fb216570eaeb6ac9d0/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] /home/lewibs/.gradle/caches/transforms-3/eb2d110b6f360c9cd8dc879db4871f2e/transformed/appcompat-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] /home/lewibs/.gradle/caches/transforms-3/eb2d110b6f360c9cd8dc879db4871f2e/transformed/appcompat-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] /home/lewibs/.gradle/caches/transforms-3/be98bda9e7a408ba6931216929ae98b2/transformed/exifinterface-1.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] /home/lewibs/.gradle/caches/transforms-3/be98bda9e7a408ba6931216929ae98b2/transformed/exifinterface-1.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/lewibs/.gradle/caches/transforms-3/41ef0166d83fe7fa053bbf192438a131/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/lewibs/.gradle/caches/transforms-3/41ef0166d83fe7fa053bbf192438a131/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.4.1] /home/lewibs/.gradle/caches/transforms-3/33b5efcfbae37d77d5f9a132d7104ddc/transformed/fragment-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.4.1] /home/lewibs/.gradle/caches/transforms-3/33b5efcfbae37d77d5f9a132d7104ddc/transformed/fragment-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] /home/lewibs/.gradle/caches/transforms-3/2c3ce4adcb9561c91bc7a372d8ace811/transformed/transition-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] /home/lewibs/.gradle/caches/transforms-3/2c3ce4adcb9561c91bc7a372d8ace811/transformed/transition-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [:nativescript-optimized-with-inspector:] /home/lewibs/.gradle/caches/transforms-3/19760c4ac626af38e72371198071658e/transformed/jetified-nativescript-optimized-with-inspector/AndroidManifest.xml:7:5-9:41
+MERGED from [:nativescript-optimized-with-inspector:] /home/lewibs/.gradle/caches/transforms-3/19760c4ac626af38e72371198071658e/transformed/jetified-nativescript-optimized-with-inspector/AndroidManifest.xml:7:5-9:41
+MERGED from [:core:] /home/lewibs/.gradle/caches/transforms-3/a767417054727fabb32bb478c9c42085/transformed/jetified-core/AndroidManifest.xml:5:5-7:41
+MERGED from [:core:] /home/lewibs/.gradle/caches/transforms-3/a767417054727fabb32bb478c9c42085/transformed/jetified-core/AndroidManifest.xml:5:5-7:41
+MERGED from [:widgets-release:] /home/lewibs/.gradle/caches/transforms-3/308a7acdce917d7bbb769ef7305a6f5b/transformed/jetified-widgets-release/AndroidManifest.xml:5:5-7:41
+MERGED from [:widgets-release:] /home/lewibs/.gradle/caches/transforms-3/308a7acdce917d7bbb769ef7305a6f5b/transformed/jetified-widgets-release/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cardview:cardview:1.0.0] /home/lewibs/.gradle/caches/transforms-3/e11934a09dcd84e3daf2558fc1aec8b6/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/lewibs/.gradle/caches/transforms-3/e11934a09dcd84e3daf2558fc1aec8b6/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/lewibs/.gradle/caches/transforms-3/08003e7f26bdc531f15b1e049328a98e/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/lewibs/.gradle/caches/transforms-3/08003e7f26bdc531f15b1e049328a98e/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/lewibs/.gradle/caches/transforms-3/25e99afff0b786ab070f518b1893a6b8/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/lewibs/.gradle/caches/transforms-3/25e99afff0b786ab070f518b1893a6b8/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/lewibs/.gradle/caches/transforms-3/5cb6f8f522b96cadc843cd4c8a9b88fd/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/lewibs/.gradle/caches/transforms-3/5cb6f8f522b96cadc843cd4c8a9b88fd/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /home/lewibs/.gradle/caches/transforms-3/20622a51a81d850304a6b04958f83fc5/transformed/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /home/lewibs/.gradle/caches/transforms-3/20622a51a81d850304a6b04958f83fc5/transformed/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/lewibs/.gradle/caches/transforms-3/c3ad4534404ab9b48d2b8601a40ae574/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/lewibs/.gradle/caches/transforms-3/c3ad4534404ab9b48d2b8601a40ae574/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/lewibs/.gradle/caches/transforms-3/d754ab6390450f46690d829915fd0407/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/lewibs/.gradle/caches/transforms-3/d754ab6390450f46690d829915fd0407/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /home/lewibs/.gradle/caches/transforms-3/0ce984f67cec0065d0c8e9cf64f3cac5/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /home/lewibs/.gradle/caches/transforms-3/0ce984f67cec0065d0c8e9cf64f3cac5/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/lewibs/.gradle/caches/transforms-3/5dd84204d257d7b38ad165be76ba3937/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/lewibs/.gradle/caches/transforms-3/5dd84204d257d7b38ad165be76ba3937/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.2.0] /home/lewibs/.gradle/caches/transforms-3/007d68172831ec866423df9d1fca46d4/transformed/jetified-core-ktx-1.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.2.0] /home/lewibs/.gradle/caches/transforms-3/007d68172831ec866423df9d1fca46d4/transformed/jetified-core-ktx-1.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/lewibs/.gradle/caches/transforms-3/df85e345eca6a6f8ab207bd399c5c135/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/lewibs/.gradle/caches/transforms-3/df85e345eca6a6f8ab207bd399c5c135/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/lewibs/.gradle/caches/transforms-3/c6d03f38a62181bef38b3473176a7f87/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/lewibs/.gradle/caches/transforms-3/c6d03f38a62181bef38b3473176a7f87/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/lewibs/.gradle/caches/transforms-3/1d3e555f76d2a2cd834046fdd261d33a/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/lewibs/.gradle/caches/transforms-3/1d3e555f76d2a2cd834046fdd261d33a/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] /home/lewibs/.gradle/caches/transforms-3/a1d8dc4b7be6c2eb30f72f751fb2ac72/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /home/lewibs/.gradle/caches/transforms-3/a1d8dc4b7be6c2eb30f72f751fb2ac72/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] /home/lewibs/.gradle/caches/transforms-3/84a8e2d89dbfef9a5ef2819204c2ccbb/transformed/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] /home/lewibs/.gradle/caches/transforms-3/84a8e2d89dbfef9a5ef2819204c2ccbb/transformed/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/lewibs/.gradle/caches/transforms-3/5b4419576831ef0e1935a1f5c3088eec/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/lewibs/.gradle/caches/transforms-3/5b4419576831ef0e1935a1f5c3088eec/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/lewibs/.gradle/caches/transforms-3/0b3b4c006d13a74ef713352fc41c383f/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/lewibs/.gradle/caches/transforms-3/0b3b4c006d13a74ef713352fc41c383f/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/lewibs/.gradle/caches/transforms-3/694506f683b366dcad26f344ac61573b/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/lewibs/.gradle/caches/transforms-3/694506f683b366dcad26f344ac61573b/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/lewibs/.gradle/caches/transforms-3/197975e7e2fd908e61fbfadcf9072a05/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/lewibs/.gradle/caches/transforms-3/197975e7e2fd908e61fbfadcf9072a05/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/lewibs/.gradle/caches/transforms-3/5caeb59653611287db532a7e0f8e68b6/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/lewibs/.gradle/caches/transforms-3/5caeb59653611287db532a7e0f8e68b6/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/lewibs/.gradle/caches/transforms-3/1180a147707632c339b45fb84c7ce540/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/lewibs/.gradle/caches/transforms-3/1180a147707632c339b45fb84c7ce540/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/lewibs/.gradle/caches/transforms-3/7e203b3ad9b9d4f7ee0b150026c78cef/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/lewibs/.gradle/caches/transforms-3/7e203b3ad9b9d4f7ee0b150026c78cef/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/lewibs/.gradle/caches/transforms-3/4b29db9a52c3de82cdd4c4cf04fdb0d8/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/lewibs/.gradle/caches/transforms-3/4b29db9a52c3de82cdd4c4cf04fdb0d8/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/lewibs/.gradle/caches/transforms-3/2988c7f49eff50f0c8820891d8a366a2/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/lewibs/.gradle/caches/transforms-3/2988c7f49eff50f0c8820891d8a366a2/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/lewibs/.gradle/caches/transforms-3/76b94ca80d24d263de1c847294d396af/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/lewibs/.gradle/caches/transforms-3/76b94ca80d24d263de1c847294d396af/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/lewibs/.gradle/caches/transforms-3/10bfe5a4994f08c9fd5177c02b763308/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/lewibs/.gradle/caches/transforms-3/10bfe5a4994f08c9fd5177c02b763308/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/lewibs/.gradle/caches/transforms-3/eb3a0f6065e290b8c4e9dcce43e1ca79/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/lewibs/.gradle/caches/transforms-3/eb3a0f6065e290b8c4e9dcce43e1ca79/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/lewibs/.gradle/caches/transforms-3/e2f1b712f5c8b497cbe1787afcc4ccd4/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/lewibs/.gradle/caches/transforms-3/e2f1b712f5c8b497cbe1787afcc4ccd4/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/lewibs/.gradle/caches/transforms-3/04b251eb99282b4bacdb597eaab578b4/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/lewibs/.gradle/caches/transforms-3/04b251eb99282b4bacdb597eaab578b4/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/lewibs/.gradle/caches/transforms-3/07c1252abfe55b8d181ff1a10b01b1f8/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/lewibs/.gradle/caches/transforms-3/07c1252abfe55b8d181ff1a10b01b1f8/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml

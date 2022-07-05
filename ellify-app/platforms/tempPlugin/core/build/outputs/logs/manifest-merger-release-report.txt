@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/lewibs/github/ellify/ellify-app/platforms/tempPlugin/core/src/main/AndroidManifest.xml:2:1-103
+INJECTED from /home/lewibs/github/ellify/ellify-app/platforms/tempPlugin/core/src/main/AndroidManifest.xml:2:1-103
+INJECTED from /home/lewibs/github/ellify/ellify-app/platforms/tempPlugin/core/src/main/AndroidManifest.xml:2:1-103
+	package
+		ADDED from /home/lewibs/github/ellify/ellify-app/platforms/tempPlugin/core/src/main/AndroidManifest.xml:2:70-101
+		INJECTED from /home/lewibs/github/ellify/ellify-app/platforms/tempPlugin/core/src/main/AndroidManifest.xml
+		INJECTED from /home/lewibs/github/ellify/ellify-app/platforms/tempPlugin/core/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/lewibs/github/ellify/ellify-app/platforms/tempPlugin/core/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+INJECTED from /home/lewibs/github/ellify/ellify-app/platforms/tempPlugin/core/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/lewibs/github/ellify/ellify-app/platforms/tempPlugin/core/src/main/AndroidManifest.xml
+INJECTED from /home/lewibs/github/ellify/ellify-app/platforms/tempPlugin/core/src/main/AndroidManifest.xml
+INJECTED from /home/lewibs/github/ellify/ellify-app/platforms/tempPlugin/core/src/main/AndroidManifest.xml
+INJECTED from /home/lewibs/github/ellify/ellify-app/platforms/tempPlugin/core/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/lewibs/github/ellify/ellify-app/platforms/tempPlugin/core/src/main/AndroidManifest.xml
+		ADDED from /home/lewibs/github/ellify/ellify-app/platforms/tempPlugin/core/src/main/AndroidManifest.xml
+		INJECTED from /home/lewibs/github/ellify/ellify-app/platforms/tempPlugin/core/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/lewibs/github/ellify/ellify-app/platforms/tempPlugin/core/src/main/AndroidManifest.xml
+		ADDED from /home/lewibs/github/ellify/ellify-app/platforms/tempPlugin/core/src/main/AndroidManifest.xml
+		INJECTED from /home/lewibs/github/ellify/ellify-app/platforms/tempPlugin/core/src/main/AndroidManifest.xml

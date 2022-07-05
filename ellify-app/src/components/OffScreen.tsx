@@ -23,7 +23,7 @@ export function OffScreen({ navigation }: OffScreenProps) {
                 style={styles.text}
                 textWrap='true'
             >
-                lewibs does not take responsibility for use of ellify
+                lewibs does not take responsibility for use of ellify. This app was created simply to see if it could be. Not to be used.
             </label>
             <image 
                 src="https://github.com/lewibs/ellify/blob/main/ellify-app/images/spotifyRed.png?raw=true"

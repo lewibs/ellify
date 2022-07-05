@@ -1,0 +1,1 @@
+/home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/assets/metadata

@@ -1,0 +1,93 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="org.nativescript.ellifyapp"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="17"
+8-->/home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->/home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml
+10
+11    <supports-screens
+11-->/home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:5:2-9:33
+12        android:largeScreens="true"
+12-->/home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:8:3-30
+13        android:normalScreens="true"
+13-->/home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:7:3-31
+14        android:smallScreens="true"
+14-->/home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:6:3-30
+15        android:xlargeScreens="true" />
+15-->/home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:9:3-31
+16
+17    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+17-->/home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:11:2-76
+17-->/home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:11:19-74
+18    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+18-->/home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:12:2-77
+18-->/home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:12:19-75
+19    <uses-permission android:name="android.permission.INTERNET" />
+19-->/home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:13:2-63
+19-->/home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:13:19-61
+20    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+20-->/home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:14:2-75
+20-->/home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:14:19-73
+21
+22    <application
+22-->/home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:16:2-41:16
+23        android:name="com.tns.NativeScriptApplication"
+23-->/home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:17:3-49
+24        android:allowBackup="true"
+24-->/home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:18:3-29
+25        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+25-->[androidx.core:core:1.5.0] /home/lewibs/.gradle/caches/transforms-3/84a8e2d89dbfef9a5ef2819204c2ccbb/transformed/core-1.5.0/AndroidManifest.xml:24:18-86
+26        android:debuggable="true"
+27        android:hardwareAccelerated="true"
+27-->/home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:22:3-37
+28        android:icon="@mipmap/ic_launcher"
+28-->/home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:19:3-37
+29        android:label="@string/app_name"
+29-->/home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:20:3-35
+30        android:theme="@style/AppTheme" >
+30-->/home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:21:3-34
+31        <activity
+31-->/home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:24:3-39:14
+32            android:name="com.tns.NativeScriptActivity"
+32-->/home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:25:4-47
+33            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|smallestScreenSize|screenLayout|locale|uiMode"
+33-->/home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:27:4-120
+34            android:exported="true"
+34-->/home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:31:4-27
+35            android:hardwareAccelerated="true"
+35-->/home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:29:4-38
+36            android:label="@string/title_activity_kimera"
+36-->/home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:26:4-49
+37            android:launchMode="singleTask"
+37-->/home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:30:9-40
+38            android:theme="@style/LaunchScreenTheme" >
+38-->/home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:28:4-44
+39            <meta-data
+39-->/home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:33:4-87
+40                android:name="SET_THEME_ON_LAUNCH"
+40-->/home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:33:15-49
+41                android:resource="@style/AppTheme" />
+41-->/home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:33:50-84
+42
+43            <intent-filter>
+43-->/home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:35:4-38:20
+44                <action android:name="android.intent.action.MAIN" />
+44-->/home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:36:5-57
+44-->/home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:36:13-54
+45
+46                <category android:name="android.intent.category.LAUNCHER" />
+46-->/home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:37:5-65
+46-->/home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:37:15-62
+47            </intent-filter>
+48        </activity>
+49        <activity android:name="com.tns.ErrorReportActivity" />
+49-->/home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:40:3-57
+49-->/home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/AndroidManifest.xml:40:13-55
+50    </application>
+51
+52</manifest>

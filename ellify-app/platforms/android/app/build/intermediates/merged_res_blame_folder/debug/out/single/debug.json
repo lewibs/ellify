@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "/home/lewibs/github/ellify/ellify-app/platforms/android/app/build/intermediates/merged_res/debug/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/res/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/lewibs/github/ellify/ellify-app/platforms/android/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/lewibs/github/ellify/ellify-app/platforms/android/app/build/intermediates/merged_res/debug/drawable-mdpi_logo.png.flat",
+        "source": "/home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/res/drawable-mdpi/logo.png"
+    },
+    {
+        "merged": "/home/lewibs/github/ellify/ellify-app/platforms/android/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/lewibs/github/ellify/ellify-app/platforms/android/app/build/intermediates/merged_res/debug/drawable-mdpi_background.png.flat",
+        "source": "/home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/res/drawable-mdpi/background.png"
+    },
+    {
+        "merged": "/home/lewibs/github/ellify/ellify-app/platforms/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_logo.png.flat",
+        "source": "/home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/res/drawable-xhdpi/logo.png"
+    },
+    {
+        "merged": "/home/lewibs/github/ellify/ellify-app/platforms/android/app/build/intermediates/merged_res/debug/drawable-nodpi_splash_screen.xml.flat",
+        "source": "/home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/res/drawable-nodpi/splash_screen.xml"
+    },
+    {
+        "merged": "/home/lewibs/github/ellify/ellify-app/platforms/android/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_background.png.flat",
+        "source": "/home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/res/drawable-xxxhdpi/background.png"
+    },
+    {
+        "merged": "/home/lewibs/github/ellify/ellify-app/platforms/android/app/build/intermediates/merged_res/debug/layout_error_activity.xml.flat",
+        "source": "/home/lewibs/github/ellify/ellify-app/platforms/android/app/src/debug/res/layout/error_activity.xml"
+    },
+    {
+        "merged": "/home/lewibs/github/ellify/ellify-app/platforms/android/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/lewibs/github/ellify/ellify-app/platforms/android/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/lewibs/github/ellify/ellify-app/platforms/android/app/build/intermediates/merged_res/debug/layout_exception_tab.xml.flat",
+        "source": "/home/lewibs/github/ellify/ellify-app/platforms/android/app/src/debug/res/layout/exception_tab.xml"
+    },
+    {
+        "merged": "/home/lewibs/github/ellify/ellify-app/platforms/android/app/build/intermediates/merged_res/debug/drawable-hdpi_logo.png.flat",
+        "source": "/home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/res/drawable-hdpi/logo.png"
+    },
+    {
+        "merged": "/home/lewibs/github/ellify/ellify-app/platforms/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_background.png.flat",
+        "source": "/home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/res/drawable-xxhdpi/background.png"
+    },
+    {
+        "merged": "/home/lewibs/github/ellify/ellify-app/platforms/android/app/build/intermediates/merged_res/debug/layout_logcat_tab.xml.flat",
+        "source": "/home/lewibs/github/ellify/ellify-app/platforms/android/app/src/debug/res/layout/logcat_tab.xml"
+    },
+    {
+        "merged": "/home/lewibs/github/ellify/ellify-app/platforms/android/app/build/intermediates/merged_res/debug/drawable-ldpi_logo.png.flat",
+        "source": "/home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/res/drawable-ldpi/logo.png"
+    },
+    {
+        "merged": "/home/lewibs/github/ellify/ellify-app/platforms/android/app/build/intermediates/merged_res/debug/drawable-ldpi_background.png.flat",
+        "source": "/home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/res/drawable-ldpi/background.png"
+    },
+    {
+        "merged": "/home/lewibs/github/ellify/ellify-app/platforms/android/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_logo.png.flat",
+        "source": "/home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/res/drawable-xxxhdpi/logo.png"
+    },
+    {
+        "merged": "/home/lewibs/github/ellify/ellify-app/platforms/android/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/lewibs/github/ellify/ellify-app/platforms/android/app/build/intermediates/merged_res/debug/drawable-xhdpi_background.png.flat",
+        "source": "/home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/res/drawable-xhdpi/background.png"
+    },
+    {
+        "merged": "/home/lewibs/github/ellify/ellify-app/platforms/android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_logo.png.flat",
+        "source": "/home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/res/drawable-xxhdpi/logo.png"
+    },
+    {
+        "merged": "/home/lewibs/github/ellify/ellify-app/platforms/android/app/build/intermediates/merged_res/debug/drawable-hdpi_background.png.flat",
+        "source": "/home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/res/drawable-hdpi/background.png"
+    },
+    {
+        "merged": "/home/lewibs/github/ellify/ellify-app/platforms/android/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]

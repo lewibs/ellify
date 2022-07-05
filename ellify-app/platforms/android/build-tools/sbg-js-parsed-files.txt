@@ -1,0 +1,3 @@
+/home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/assets/app/bundle.js
+/home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/assets/app/runtime.js
+/home/lewibs/github/ellify/ellify-app/platforms/android/app/src/main/assets/app/vendor.js
